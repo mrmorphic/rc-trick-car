@@ -6,3 +6,7 @@ full reverse it does a trick instead.
 
 For more details, see the comments in car.ino
 
+Authors: Mark Stephens, Ben Ellis
+Copyright (C) Mark Stephens 2013
+
+Licence: BSD
